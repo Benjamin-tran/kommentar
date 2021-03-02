@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Benjamin Tran
+title: Kommentar
 description: >- # this means to ignore newlines until "baseurl:"
   Kommentare von Benjamin Tran
 minimal_mistakes_skin: default
@@ -54,6 +54,17 @@ plugins:
 
 author:
   name   : "Benjamin Tran"
+  bio    : "Student."
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_Benjamin_t"
+      
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_Benjamin_t"
 
 defaults:
   # _posts
