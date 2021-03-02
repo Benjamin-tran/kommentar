@@ -14,6 +14,6 @@ Jeder kennt das Gefühl, man steht gerade auf, aber möchte direkt wieder ins Be
 <div class="Notice">
   <h4>Quellen</h4>
   <p>¹VORONA, Robert Daniel, et al. Dissimilar teen crash rates in two neighboring southeastern Virginia cities with different high school start times. Journal of Clinical Sleep Medicine, 2011, 7. Jg., Nr. 02, S. 145-151.
-²PAGEL, James F.; KWIATKOWSKI, Carol F. Sleep complaints affecting school performance at different educational levels. Frontiers in neurology, 2010, 1. Jg., S. 125.
-³KELLEY, Paul, et al. Synchronizing education to adolescent biology:‘let teens sleep, start school later’. Learning, Media and Technology, 2015, 40. Jg., Nr. 2, S. 210-226.</p>
+    ²PAGEL, James F.; KWIATKOWSKI, Carol F. Sleep complaints affecting school performance at different educational levels. Frontiers in neurology, 2010, 1. Jg., S. 125.
+    ³KELLEY, Paul, et al. Synchronizing education to adolescent biology:‘let teens sleep, start school later’. Learning, Media and Technology, 2015, 40. Jg., Nr. 2, S. 210-226.</p>
 </div>
